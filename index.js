@@ -20,7 +20,7 @@ const spy = string.toLowerCase();
 console.log(spy)
 }
 
-logWhisper('HELLO')
+//logWhisper('HELLO')
 
 function sayHiToGrandma(string) {
   if(string === string.toLowerCase()){
